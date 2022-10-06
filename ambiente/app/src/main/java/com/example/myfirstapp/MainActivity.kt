@@ -25,7 +25,17 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun goToDiametro(view: View) {
-        var intent = Intent(this, DIAMETROActivity::class.java)
+        val intent = Intent(this, DIAMETROActivity::class.java)
+        startActivity(intent)
+    }
+
+    fun goToMes(view: View){
+        val intent = Intent(this, MESActivity::class.java)
+        startActivity(intent)
+    }
+
+    fun goToDistancia(view: View) {
+        val intent = Intent(this, KILOActivity::class.java)
         startActivity(intent)
     }
 }

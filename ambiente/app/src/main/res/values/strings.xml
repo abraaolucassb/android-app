@@ -10,4 +10,13 @@
     <string name="diametro">DIAMETRO, COMPIMENTO E RAIO</string>
     <string name="raio">Raio:</string>
     <string name="button_calculate_diametro">CALCULAR</string>
+    <string name="mes_do_ano">DIGITE UM NÚMERO DE UM MÊS DO ANO</string>
+    <string name="mes">Mês:</string>
+    <string name="kilometro">
+        ESCOLHA UMA OPÇÃO
+        \n1 - 8 km/litro
+        \n2 - 9 km/litro
+        \n3 - 12 km/litro
+    </string>
+    <string name="kilo">Distância:</string>
 </resources>

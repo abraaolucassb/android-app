@@ -48,5 +48,25 @@
         app:icon="@android:drawable/btn_star_big_on"
         android:onClick="goToDiametro"/>
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#D02020"
+        android:text="Mês do ano"
+        android:textSize="30dp"
+        android:layout_marginBottom="@dimen/marginBottomButton"
+        app:icon="@android:drawable/btn_star_big_on"
+        android:onClick="goToMes"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#D02020"
+        android:text="Distância"
+        android:textSize="30dp"
+        android:layout_marginBottom="@dimen/marginBottomButton"
+        app:icon="@android:drawable/btn_star_big_on"
+        android:onClick="goToDistancia"/>
+
 
 </LinearLayout>
