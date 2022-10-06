@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="edit_message">Insira sua risada</string>
+    <string name="button_send">Send</string>
+    <string name="imc">CALCULADORA DE IMC</string>
+    <string name="peso">Peso:</string>
+    <string name="altura">Altura:</string>
+    <string name="button_calculate_imc">Calcular IMC</string>
+    <string name="calculateIMCTwoScreens">Calcular IMC 2T</string>
+    <string name="diametro">DIAMETRO, COMPIMENTO E RAIO</string>
+    <string name="raio">Raio:</string>
+    <string name="button_calculate_diametro">CALCULAR</string>
+</resources>
